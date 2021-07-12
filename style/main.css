@@ -124,8 +124,7 @@ font-weight: 800;
     font-family: 'Roboto', sans-serif;
 }
 .landing{
-    width: 315px;
-    height: 700px;
+    
     background-color: white;
     margin-top: 200px;
     margin-left: 340px;
@@ -135,7 +134,7 @@ font-weight: 800;
 .landing_found{
     display: flex;
     justify-content: space-between;
-    width: 315px;
+    
 }
 .landing_logo{
     width: 100px;
@@ -174,6 +173,9 @@ font-weight: 800;
 .number_ul{
 
 }
+.number_li{
+
+}
 .number_down{
     display: flex;
     justify-content: space-between;
@@ -181,6 +183,9 @@ font-weight: 800;
     font-size: 12px;
     color: #788794;
 }
-.number_down_text{
+.number_down_text_ul{
+
+}
+.number_down_text_li{
 
 }
